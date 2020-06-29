@@ -1,4 +1,4 @@
-# challenge1spaceX
+# challenge1spaceX (geen aanpassingen voor herkansing)
 Voor deze challenge heb ik eerst gekeken naar welke informatie ik op mijn dashboard wilde laten zien. Aangezien ik niet veel verstand 
 heb van raketten, heb ik het gehouden op vrij algemene informatie. Vandaar dat het vooral over passagiers info gaat en de voorraden. 
 Bij deze categorieën heb ik nagedacht over welke visualisaties er het beste bij zouden passen. Op die manier ben ik bij deze drie
